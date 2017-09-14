@@ -10,6 +10,8 @@ public class Main {
         sc.fullname(Sandeep Mundru);
         sc.birthDate(1996-02-18);
         sc.avgMarks(56.3);
+
+
 	}
 
 }
